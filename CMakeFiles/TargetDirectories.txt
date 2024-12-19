@@ -1,0 +1,3 @@
+/data/code/deleteLog/CMakeFiles/auto_delete_txt.dir
+/data/code/deleteLog/CMakeFiles/edit_cache.dir
+/data/code/deleteLog/CMakeFiles/rebuild_cache.dir

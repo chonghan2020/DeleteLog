@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/auto_delete_txt.dir/auto_delete_txt.cpp.o -o auto_delete_txt 
