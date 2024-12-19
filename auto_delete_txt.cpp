@@ -27,8 +27,6 @@ void deleteTxtFiles(const std::vector<std::string>& folderPaths) {
 int main() {
     // 指定要遍历的文件夹路径列表
     std::vector<std::string> folderPaths = {
-        "/data/code/tradition_detector_2/log",
-        "/data/code/Detector_Deep/log",
         "/data/code/Trackor/log",
         
     };
